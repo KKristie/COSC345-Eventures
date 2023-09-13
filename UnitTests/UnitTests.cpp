@@ -11,7 +11,7 @@ class UnitTests : public QObject
 
     private slots:
         void EmptyUrlTest();
-        void ValidUrlTest();
+        void ValidUrlTest();  
         void UnresolvedHostnameTest();
 //        void processJsonValidTest();
 //        void processJsonInvalidCredentialsTest();
